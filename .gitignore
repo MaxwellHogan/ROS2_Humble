@@ -1,0 +1,15 @@
+# ROS build output
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Large/local datasets
+datasets/*
+!datasets/.gitkeep
